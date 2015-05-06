@@ -1,7 +1,0 @@
-{
-    "deployvirtualmachineresponse": {
-        "errorcode": 431,
-        "uuidlist": [],
-        "errortext": "Unable to execute API command deployvirtualmachine due to invalid value. Object security_group(uuid: demo) does not exist."
-    }
-}

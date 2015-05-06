@@ -1,8 +1,0 @@
-{
-    "listtemplatesresponse": {
-        "errorcode": 431,
-        "uuidlist": [],
-        "cserrorcode": 4350,
-        "errortext": "Please specify a valid template ID."
-    }
-}

@@ -1,9 +1,0 @@
-{% extends "response.xml" %}
-{% block response_content %}
-    {% for keypair in response.sshkeypair %}
-        <item>
-            <keyName>{{keypair.name}}</keyName>
-            <keyFingerprint>{{keypair.fingerprint}}</keyFingerprint>
-        </item>
-    {% endfor %}
-{% endblock %}

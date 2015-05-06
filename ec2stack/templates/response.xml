@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<{{response_type}}{% if not error %} xmlns="http://ec2.amazonaws.com/doc/{{api_version}}/"{%endif%}>
-    {% block response_content %}{% endblock %}
-    {% if request_id %}
-    <RequestId>{{request_id}}</RequestId>
-    {% endif %}
-</{{response_type}}>

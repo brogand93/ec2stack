@@ -1,7 +1,0 @@
-{
-    "deployvirtualmachineresponse": {
-        "errorcode": 431,
-        "uuidlist": [],
-        "errortext": "A key pair with name 'blahblahblah' was not found."
-    }
-}
